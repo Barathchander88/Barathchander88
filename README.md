@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,50:6D28D9,100:3FCF8E&height=170&section=header&text=Barath%20Chander%20E&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,50:6D28D9,100:3FCF8E&height=170&section=header&text=Barath%20Chander%20E&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20and%20Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%">
 
 <p align="center">
 I build <b>LLM-powered products end to end</b> — API integration, backend, data layer, deployment.<br>
